@@ -1,7 +1,0 @@
-2024/02/07 09:14:29 [error] 2276#0: *97 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/09 08:59:30 [error] 1307#0: *377 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/12 08:12:52 [error] 9552#0: *5391 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/15 09:10:09 [error] 7965#0: *72 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/16 16:43:13 [error] 9568#0: *217 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/18 14:00:50 [error] 1611#0: *65 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"
-2024/02/19 20:12:52 [error] 10819#0: *307 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "authentix.local"

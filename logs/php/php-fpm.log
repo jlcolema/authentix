@@ -1,464 +1,0 @@
-[02-Feb-2024 17:20:02] NOTICE: fpm is running, pid 5852
-[02-Feb-2024 17:20:02] NOTICE: ready to handle connections
-[02-Feb-2024 17:41:56] NOTICE: Terminating ...
-[02-Feb-2024 17:41:56] NOTICE: Terminating ...
-[02-Feb-2024 17:41:56] NOTICE: exiting, bye-bye!
-[07-Feb-2024 09:10:31] NOTICE: fpm is running, pid 2271
-[07-Feb-2024 09:10:31] NOTICE: ready to handle connections
-[07-Feb-2024 16:32:41] NOTICE: Terminating ...
-[07-Feb-2024 16:32:41] NOTICE: Terminating ...
-[07-Feb-2024 16:32:41] NOTICE: exiting, bye-bye!
-[08-Feb-2024 08:50:35] NOTICE: fpm is running, pid 1471
-[08-Feb-2024 08:50:35] NOTICE: ready to handle connections
-[08-Feb-2024 09:00:32] NOTICE: Terminating ...
-[08-Feb-2024 09:00:32] NOTICE: Terminating ...
-[08-Feb-2024 09:00:32] NOTICE: exiting, bye-bye!
-[09-Feb-2024 08:14:12] NOTICE: fpm is running, pid 1301
-[09-Feb-2024 08:14:12] NOTICE: ready to handle connections
-[09-Feb-2024 10:54:34] NOTICE: Terminating ...
-[09-Feb-2024 10:54:34] NOTICE: Terminating ...
-[09-Feb-2024 10:54:34] NOTICE: exiting, bye-bye!
-[09-Feb-2024 10:54:39] NOTICE: fpm is running, pid 4658
-[09-Feb-2024 10:54:39] NOTICE: ready to handle connections
-[09-Feb-2024 13:31:45] NOTICE: Terminating ...
-[09-Feb-2024 13:31:45] NOTICE: Terminating ...
-[09-Feb-2024 13:31:45] NOTICE: exiting, bye-bye!
-[09-Feb-2024 14:06:59] NOTICE: fpm is running, pid 7917
-[09-Feb-2024 14:06:59] NOTICE: ready to handle connections
-[09-Feb-2024 14:34:00] NOTICE: Terminating ...
-[09-Feb-2024 14:34:00] NOTICE: Terminating ...
-[09-Feb-2024 14:34:00] NOTICE: exiting, bye-bye!
-[09-Feb-2024 15:44:34] NOTICE: fpm is running, pid 9547
-[09-Feb-2024 15:44:34] NOTICE: ready to handle connections
-[12-Feb-2024 08:37:52] NOTICE: Terminating ...
-[12-Feb-2024 08:37:52] NOTICE: Terminating ...
-[12-Feb-2024 08:37:52] NOTICE: exiting, bye-bye!
-[12-Feb-2024 08:38:50] NOTICE: fpm is running, pid 20373
-[12-Feb-2024 08:38:50] NOTICE: ready to handle connections
-[12-Feb-2024 10:37:45] NOTICE: Terminating ...
-[12-Feb-2024 10:37:45] NOTICE: Terminating ...
-[12-Feb-2024 10:37:45] NOTICE: exiting, bye-bye!
-[14-Feb-2024 16:02:38] NOTICE: fpm is running, pid 7960
-[14-Feb-2024 16:02:38] NOTICE: ready to handle connections
-[15-Feb-2024 19:15:59] NOTICE: Terminating ...
-[15-Feb-2024 19:15:59] NOTICE: Terminating ...
-[15-Feb-2024 19:15:59] NOTICE: exiting, bye-bye!
-[16-Feb-2024 09:05:30] NOTICE: fpm is running, pid 1651
-[16-Feb-2024 09:05:30] NOTICE: ready to handle connections
-[16-Feb-2024 15:49:25] NOTICE: Terminating ...
-[16-Feb-2024 15:49:25] NOTICE: Terminating ...
-[16-Feb-2024 15:49:25] NOTICE: exiting, bye-bye!
-[16-Feb-2024 16:36:41] NOTICE: fpm is running, pid 9556
-[16-Feb-2024 16:36:41] NOTICE: ready to handle connections
-[16-Feb-2024 19:47:42] NOTICE: Terminating ...
-[16-Feb-2024 19:47:42] NOTICE: Terminating ...
-[16-Feb-2024 19:47:42] NOTICE: exiting, bye-bye!
-[17-Feb-2024 09:37:48] NOTICE: fpm is running, pid 1121
-[17-Feb-2024 09:37:48] NOTICE: ready to handle connections
-[17-Feb-2024 19:20:05] NOTICE: Terminating ...
-[17-Feb-2024 19:20:05] NOTICE: Terminating ...
-[17-Feb-2024 19:20:05] NOTICE: exiting, bye-bye!
-[18-Feb-2024 13:36:58] NOTICE: fpm is running, pid 1605
-[18-Feb-2024 13:36:58] NOTICE: ready to handle connections
-[18-Feb-2024 21:00:23] NOTICE: Terminating ...
-[18-Feb-2024 21:00:23] NOTICE: Terminating ...
-[18-Feb-2024 21:00:23] NOTICE: exiting, bye-bye!
-[19-Feb-2024 08:19:14] NOTICE: fpm is running, pid 1974
-[19-Feb-2024 08:19:14] NOTICE: ready to handle connections
-[19-Feb-2024 08:27:47] NOTICE: Terminating ...
-[19-Feb-2024 08:27:47] NOTICE: Terminating ...
-[19-Feb-2024 08:27:47] NOTICE: exiting, bye-bye!
-[19-Feb-2024 12:53:24] NOTICE: fpm is running, pid 3400
-[19-Feb-2024 12:53:24] NOTICE: ready to handle connections
-[19-Feb-2024 16:47:05] NOTICE: Terminating ...
-[19-Feb-2024 16:47:05] NOTICE: Terminating ...
-[19-Feb-2024 16:47:05] NOTICE: exiting, bye-bye!
-[19-Feb-2024 20:12:03] NOTICE: fpm is running, pid 10814
-[19-Feb-2024 20:12:03] NOTICE: ready to handle connections
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: GET]"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "> GET / HTTP/2"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:11] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 200 "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:12 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html; charset=UTF-8"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< x-powered-by: PHP/8.0.30"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/>; rel="https://api.w.org/""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/wp/v2/pages/5577>; rel="alternate"; type="application/json""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/>; rel=shortlink"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 15981 url = / (zero-length body)"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: POST]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "> POST / HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 200 "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:12 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html; charset=UTF-8"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< x-powered-by: PHP/8.0.30"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/>; rel="https://api.w.org/""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/wp/v2/pages/5577>; rel="alternate"; type="application/json""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/>; rel=shortlink"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 15981 url = / (zero-length body)"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: PUT]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "> PUT / HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:12 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: DELETE]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "> DELETE / HTTP/2"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:12 GMT"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:12] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: HEAD]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "> HEAD / HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 200 "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:46 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html; charset=UTF-8"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< vary: Accept-Encoding"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< x-powered-by: PHP/8.0.30"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/>; rel="https://api.w.org/""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/wp-json/wp/v2/pages/5577>; rel="alternate"; type="application/json""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< link: <https://authentix.local/>; rel=shortlink"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: OPTIONS]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "> OPTIONS / HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:46 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: CONNECT]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: /]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "> CONNECT / HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 400 "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:46 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:method: TRACE]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "> TRACE / HTTP/2"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: ""
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< date: Tue, 20 Feb 2024 02:23:46 GMT"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "< "
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:46] WARNING: [pool www] child 10824 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:method: TRACK]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "> TRACK / HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: ""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< date: Tue, 20 Feb 2024 02:23:49 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:method: PATCH]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "> PATCH / HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: ""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< date: Tue, 20 Feb 2024 02:23:49 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:method: COPY]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "> COPY / HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: ""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< date: Tue, 20 Feb 2024 02:23:49 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*   Trying [::1]:443..."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connected to authentix.local (::1) port 443"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: curl offers h2,http/1.1"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* ALPN: server accepted h2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Server certificate:"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subject: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  start date: Feb  2 23:19:59 2024 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  expire date: Feb  2 23:19:59 2034 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  subjectAltName: host "authentix.local" matched cert's "authentix.local""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  issuer: CN=authentix.local; C=XX; ST=XX; L=Fake Locality; O=Super Fake Company, Fake.; OU=Fake Organizational Unit"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "*  SSL certificate verify ok."
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* using HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] OPENED stream for https://authentix.local/"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:method: LINK]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:scheme: https]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:authority: authentix.local]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [:path: /]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* [HTTP/2] [1] [accept: */*]"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "> LINK / HTTP/2"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Host: authentix.local"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "Accept: */*"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: ""
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< HTTP/2 405 "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< server: nginx/1.16.0"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< date: Tue, 20 Feb 2024 02:23:49 GMT"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-type: text/html"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< content-length: 157"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "< "
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Excess found: excess = 157 url = / (zero-length body)"
-[19-Feb-2024 20:23:49] WARNING: [pool www] child 10823 said into stderr: "* Connection #0 to host authentix.local left intact"
-[19-Feb-2024 20:43:13] NOTICE: Terminating ...
-[19-Feb-2024 20:43:13] NOTICE: Terminating ...
-[19-Feb-2024 20:43:13] NOTICE: exiting, bye-bye!
