@@ -1,7 +1,23 @@
 .DS_Store
 *.nova
 *.code-workspace
-wp-config*
+conf/*
+logs/*
+organize/*
 *.sql
-conf/
-logs/
+
+# Ignore everything in the root except the "wp-content" directory.
+
+app/public/*
+!app/public/wp-content/
+
+# Ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory.
+
+app/public/wp-content/*
+!app/public/wp-content/themes/
+
+# Ignore specific themes.
+
+app/public/wp-content/themes/*
+!app/public/wp-content/themes/THEME_NAME/
